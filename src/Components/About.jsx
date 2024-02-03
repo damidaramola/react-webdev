@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/jigar-panchal-bikKtf6mgZ8-unsplash.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "colorful abstract background image";
 
 /**
  * Sort description that expands on your title on the Home component.
