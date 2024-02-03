@@ -31,28 +31,28 @@ const imageAltText = "woman teaching man code on a computer screen";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "CanvasCorner",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "CanvasCorner is a photo-sharing content platform for artists who love to paint. They can share their artwork with many artists and gain inspiration for their future creations of art.",
+    url: "https://canvas-corner-b9b6c14b7bc7.herokuapp.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Festive Fun",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "FestiveFun is a blog which provides readers with exposure to some of the top music and transformative events from around the world, as well as helpful festival tips and plenty of festival fashion ideas and advice.",
+    url: "https://festivefun.herokuapp.com/",
   },
   {
-    title: "My Resume Site",
+    title: "Queens and Diamonds",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Queens and diamonds is a simple card guessing game in which th player must guess and pick the right card (Queen of Diamonds). Each of the 4 cards is shuffled and then faced on its back to the player.If the play guesses the right card, they are awarded with points. There are 4 rounds in total.",
+    url: "https://github.com/damidaramola/Memory-Card-Game",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "To-do List App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This simple TODO app allows the user to plan out their tasks for the day. It is feasible and easy to use for people such as students, teachers and those who really enjoy organised productivity.",
+    url: "https://github.com/damidaramola/new-to-do-list",
   },
 ];
 
