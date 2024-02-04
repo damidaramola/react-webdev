@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://github-username.github.io/react-webdev'",
+    "build-gh": "parcel build --public-url 'https://damidaramola.github.io/react-webdev'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
